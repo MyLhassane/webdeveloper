@@ -44,7 +44,9 @@ module.exports = {
         'translation',
         'security',
         'changeset',
-        'rfc'
+        'rfc',
+        'create',
+        'dropped'
       ],
     ],
   },
